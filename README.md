@@ -1,4 +1,6 @@
 # testToken
+The main code can be found on the master branch.
+
 This is a project to deploy ERC20 tesTokens to the Binance Smart Chain.
 
 I have used Truffle and Ganache for the project and tested using chai library.
